@@ -1,12 +1,10 @@
 # Dawn
 
-A highly functional [Ghost](https://github.com/TryGhost/Ghost) theme that adapts to the reader's preferences. Let them read, search, subscribe, navigate, and more with ease.
-
-**Demo: https://dawn.ghost.io**
+A custom version of [Dawn](https://github.com/TryGhost/Dawn) for the alis_ blog.
 
 # Instructions
 
-1. [Download this theme](https://github.com/TryGhost/Dawn/archive/main.zip)
+1. [Download this theme](https://github.com/alis-x/dawn/archive/main.zip)
 2. Log into Ghost, and go to the `Design` settings area to upload the zip file
 
 # Development
@@ -31,7 +29,7 @@ yarn zip
 
 # Contribution
 
-This repo is synced automatically with [TryGhost/Themes](https://github.com/TryGhost/Themes) monorepo. If you're looking to contribute or raise an issue, head over to the main repository [TryGhost/Themes](https://github.com/TryGhost/Themes) where our official themes are developed.
+Develop on the dev branch and only merge into master when ready.
 
 # Copyright & License
 
