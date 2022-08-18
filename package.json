@@ -1,6 +1,6 @@
 {
     "name": "dawn",
-    "description": "A Ghost theme",
+    "description": "A custom ghost theme for alis_",
     "version": "1.0.0",
     "private": true,
     "engines": {
@@ -8,9 +8,9 @@
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Alis Technology",
+        "email": "newton@alis.capital",
+        "url": "https://alis.technology/"
     },
     "keywords": [
         "ghost",
