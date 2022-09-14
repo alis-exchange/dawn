@@ -1,5 +1,5 @@
 {
-    "name": "dawn",
+    "name": "alisdawn",
     "description": "A custom ghost theme for alis_",
     "version": "1.0.0",
     "private": true,
@@ -8,8 +8,8 @@
     },
     "license": "MIT",
     "author": {
-        "name": "Alis Technology",
-        "email": "newton@alis.capital",
+        "name": "Alis Exchange",
+        "email": "newton@alisx.com",
         "url": "https://alis.technology/"
     },
     "keywords": [
@@ -64,7 +64,7 @@
                     "Light",
                     "Dark"
                 ],
-                "default": "Auto"
+                "default": "Light"
             },
             "white_logo_for_dark_mode": {
                 "type": "image"
