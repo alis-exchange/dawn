@@ -1,8 +1,10 @@
 .cover-cta .button {
-    background-color: var(--brand-color);
-    color: var(--primary-text-color, #fff);
-    border: none;
+    background-color: var(--brand-color) !important;
+    color: var(--color-white, #fff) !important;
+    border: none !important;
 }
+
+
 
 .gh-foot-inner {
     grid-template-columns: auto;
